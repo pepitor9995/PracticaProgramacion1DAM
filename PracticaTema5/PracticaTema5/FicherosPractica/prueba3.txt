@@ -1,0 +1,14 @@
+Ficha del Ladron: alexis
+
+nombre: alexis
+Clase: Ladron
+raza: terceraEdad
+
+nivel: 1
+vitalidad: 100
+fuerza: 10
+agilidad: 10
+fortaleza: 10
+resistencia magica: 10
+
+Está actualmente: vivo

@@ -1,0 +1,29 @@
+Ficha del Cazador: ivan
+
+nombre: ivan
+Clase: Cazador
+raza: profesor
+
+nivel: 1
+vitalidad: 100
+fuerza: 10
+agilidad: 10
+fortaleza: 10
+resistencia magica: 10
+
+Está actualmente: vivo
+
+Ficha de CompiAnimal pajaro
+
+nombre: pajaro
+Clase: CompiAnimal
+raza: canido
+
+nivel: 1
+vitalidad: 20
+fuerza: 2
+agilidad: 2
+fortaleza: 2
+resistencia magica: 2
+
+Está actualmente: vivo

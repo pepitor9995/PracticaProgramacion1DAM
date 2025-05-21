@@ -1,0 +1,14 @@
+Fiche del Mounstro: Ivan
+
+nombre: Ivan
+Clase: Mounstro
+raza: bestia
+
+nivel: 1
+vitalidad: 100
+fuerza: 10
+agilidad: 10
+fortaleza: 10
+resistencia magica: 10
+
+Está actualmente: vivo

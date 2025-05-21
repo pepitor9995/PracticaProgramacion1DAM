@@ -1,0 +1,67 @@
+1
+Ficha del Guerrero: pepe
+
+nombre: pepe
+Clase: Guerrero
+raza: navajas
+
+nivel: 100
+vitalidad: 100
+fuerza: 100
+agilidad: 1000
+fortaleza: 100
+resistencia magica: 100
+
+Está actualmente: vivo
+Furia: furioso
+
+2
+Ficha del Guerrero: Jose
+
+nombre: Jose
+Clase: Guerrero
+raza: navajas
+
+nivel: 100
+vitalidad: 100
+fuerza: 100
+agilidad: 150
+fortaleza: 100
+resistencia magica: 100
+
+Está actualmente: vivo
+Furia: furioso
+
+3
+Ficha del Guerrero: apepe
+
+nombre: apepe
+Clase: Guerrero
+raza: navajas
+
+nivel: 100
+vitalidad: 100
+fuerza: 100
+agilidad: 10
+fortaleza: 100
+resistencia magica: 100
+
+Está actualmente: vivo
+Furia: furioso
+
+4
+Fiche del Mounstro: aaivan
+
+nombre: aaivan
+Clase: Mounstro
+raza: bestia
+
+nivel: 1
+vitalidad: 100
+fuerza: 10
+agilidad: 10
+fortaleza: 10
+resistencia magica: 10
+
+Está actualmente: vivo
+
