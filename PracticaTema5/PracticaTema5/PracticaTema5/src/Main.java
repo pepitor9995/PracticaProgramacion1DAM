@@ -33,7 +33,7 @@ public class Main {
         }
 
         Simulador holi = new Simulador(aliados,
-                "C:\\Users\\bibi_\\Desktop\\pepe\\PracticaTema5\\PracticaTema5\\FicherosPractica\\ficherosTema7\\Ficheros - Pra╠üctica 7\\Mazmorras\\hogarDelHacedor.csv");
+                "C:\\Users\\bibi_\\Desktop\\pepe\\PracticaProgramacion1DAM\\PracticaTema5\\PracticaTema5\\FicherosPractica\\ficherosTema7\\Ficheros - Pra╠üctica 7\\Mazmorras\\hogarDelHacedor.csv");
 
         holi.Combate();
 

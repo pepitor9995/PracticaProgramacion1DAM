@@ -251,9 +251,9 @@ public class Combate {
         } while (!aliados.isEmpty() && !enemigos.isEmpty());
 
         añadirTesoros(
-                "C:\\Users\\bibi_\\Desktop\\pepe\\PracticaTema5\\PracticaTema5\\FicherosPractica\\ficherosTema7\\Ficheros - Pra╠üctica 7\\Tesoros\\armas.csv",
-                "C:\\Users\\bibi_\\Desktop\\pepe\\PracticaTema5\\PracticaTema5\\FicherosPractica\\ficherosTema7\\Ficheros - Pra╠üctica 7\\Tesoros\\armadura.csv",
-                "C:\\Users\\bibi_\\Desktop\\pepe\\PracticaTema5\\PracticaTema5\\FicherosPractica\\ficherosTema7\\Ficheros - Pra╠üctica 7\\Tesoros\\artefactos.csv");
+                "C:\\Users\\bibi_\\Desktop\\pepe\\PracticaProgramacion1DAM\\PracticaTema5\\PracticaTema5\\FicherosPractica\\ficherosTema7\\Ficheros - Pra╠üctica 7\\Tesoros\\armas.csv",
+                "C:\\Users\\bibi_\\Desktop\\pepe\\PracticaProgramacion1DAM\\PracticaTema5\\PracticaTema5\\FicherosPractica\\ficherosTema7\\Ficheros - Pra╠üctica 7\\Tesoros\\armadura.csv",
+                "C:\\Users\\bibi_\\Desktop\\pepe\\PracticaProgramacion1DAM\\PracticaTema5\\PracticaTema5\\FicherosPractica\\ficherosTema7\\Ficheros - Pra╠üctica 7\\Tesoros\\artefactos.csv");
 
         int cont = 0;
 
